@@ -99,4 +99,20 @@ Red Data Toolsの開発対象になるデータ処理ツールは多岐にわた
 
 ## 集客
 
-現時点ではRuby界隈とApache Spark・Apache Hadoop界隈の人が賛同しているが、ツテをたどってそれ以外の界隈の人たちにも周知したい。たとえば、Python界隈・R界隈の人たちである。
+現時点ではRuby界隈とApache Spark・Apache Hadoop界隈の人が賛同しているが、ツテをたどってそれ以外の界隈の人たちにも周知したい。たとえば、Python界隈・R界隈・Julia界隈の人たちである。
+
+以下の界隈にはツテをたどれそう。
+
+  * Ruby界隈
+  * Apache Spark界隈
+  * Apache Hadoop界隈
+  * Python界隈
+  * Julia界隈
+  * [情報処理学会ビッグデータ研究グループ](https://sites.google.com/view/ipsj-bpd/)
+  * ...
+
+以下のイベントで宣伝できるとよさそう。
+
+  * [JuliaTokyo #8](https://juliatokyo.connpass.com/event/100780/): 2018-10-20
+  * RubyData Tokyo Meetup 2018.11: 2018-11-17
+  * ...
