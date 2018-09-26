@@ -72,6 +72,8 @@ Red Data Toolsの開発対象になるデータ処理ツールは多岐にわた
     * 須藤（Apache Arrow PMCメンバー）
   * Apache SparkとApache Arrow
     * 上新さん？（Apache Sparkコミッターのだれか）
+  * Red Data ToolsとApache Arrow
+    * Red Data Toolsのだれか
   * pandasとApache Arrow
   * ...
 
