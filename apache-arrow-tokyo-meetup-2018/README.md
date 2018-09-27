@@ -93,7 +93,7 @@ Red Data Toolsの開発対象になるデータ処理ツールは多岐にわた
 
   * [Speee Lounge](https://tech.speee.jp/entry/2017/05/26/101342)
     * 須藤がコネがある。
-    * 飲食物提供の支援もしてもらえるかも？
+    * 飲食物提供の支援もしてもらえる
   * [Yahoo! JAPAN LODGE](https://lodge.yahoo.co.jp/)
     * 上新さんがコネ（？）がある。
 
