@@ -55,6 +55,8 @@ Red Data Toolsの開発対象になるデータ処理ツールは多岐にわた
 
 2018年中にできる？
 
+  * Japan.Rが12月1日開催なのでその日を避けること
+
 ## 内容
 
 以下の2部構成とする。
@@ -108,6 +110,7 @@ Red Data Toolsの開発対象になるデータ処理ツールは多岐にわた
   * Apache Hadoop界隈
   * Python界隈
   * Julia界隈
+  * R界隈
   * [情報処理学会ビッグデータ研究グループ](https://sites.google.com/view/ipsj-bpd/)
   * ...
 
